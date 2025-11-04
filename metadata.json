@@ -1,0 +1,7 @@
+{
+  "name": "Local Lens",
+  "description": "An application that allows users to find products in nearby shops by uploading an image. Shop owners can list their products and shop location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
